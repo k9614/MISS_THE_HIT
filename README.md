@@ -6,4 +6,4 @@ Designed in Scratch.
 
 Submission for CS50.
 
-Enjoy playing!
+Enjoy the game!
